@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PluginState">
+    <option name="automaticallyGenerateClassFromResponses" value="true" />
+    <option name="framework" value="GSON" />
+    <option name="language" value="KOTLIN" />
+    <option name="lastVisitedDir" value="D:\Materi BCAF Android Batch 4" />
+    <option name="promptToSelectClassForReturnType" value="true" />
+    <option name="returnType" value="Call&lt;T&gt;" />
+    <option name="returnTypeClassesDirectory" value="D:\Materi BCAF Android Batch 4\TestRetrofitGenerator" />
+    <option name="returnTypeClassInfoList" value="[{&quot;className&quot;:&quot;PostAdapter&quot;,&quot;classExtension&quot;:&quot;kt&quot;},{&quot;className&quot;:&quot;PostViewModel&quot;,&quot;classExtension&quot;:&quot;kt&quot;},{&quot;className&quot;:&quot;Post&quot;,&quot;classExtension&quot;:&quot;kt&quot;},{&quot;className&quot;:&quot;RetrofitInstance&quot;,&quot;classExtension&quot;:&quot;kt&quot;},{&quot;className&quot;:&quot;ApiService&quot;,&quot;classExtension&quot;:&quot;kt&quot;},{&quot;className&quot;:&quot;HeaderInterceptor&quot;,&quot;classExtension&quot;:&quot;kt&quot;},{&quot;className&quot;:&quot;network_security_config&quot;,&quot;classExtension&quot;:&quot;xml&quot;}]" />
+  </component>
+</project>
